@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlackBoxTest", "BlackBoxTest\BlackBoxTest.csproj", "{CD0F6C19-0AC0-4FA0-84DD-947A437EC485}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestCase", "TestCase\TestCase.csproj", "{0FDD24DE-ADFA-4260-9590-1CB62431880E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD0F6C19-0AC0-4FA0-84DD-947A437EC485}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD0F6C19-0AC0-4FA0-84DD-947A437EC485}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD0F6C19-0AC0-4FA0-84DD-947A437EC485}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD0F6C19-0AC0-4FA0-84DD-947A437EC485}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FDD24DE-ADFA-4260-9590-1CB62431880E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FDD24DE-ADFA-4260-9590-1CB62431880E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FDD24DE-ADFA-4260-9590-1CB62431880E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FDD24DE-ADFA-4260-9590-1CB62431880E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6608972E-9246-411F-8F20-65E1DC59B17E}
+	EndGlobalSection
+EndGlobal
